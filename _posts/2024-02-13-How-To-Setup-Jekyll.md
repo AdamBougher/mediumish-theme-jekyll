@@ -51,6 +51,7 @@ And you should now have a localy running jekyll website!
 # Step 6 Theme
 You might want to USe a Theme  for your jekyll website, for this guide we will be using Mediumish<br>
 (https://github.com/wowthemesnet/mediumish-theme-jekyll/) <br>
+Make a fork and clone this repo. make sure the gemfile has the lines from above added to it.<br>
 
 
 
