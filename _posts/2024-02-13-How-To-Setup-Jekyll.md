@@ -45,7 +45,7 @@ gem "kramdown-parser-gfm"
 ```
 Now go back to the terminal and type the fallowing<br>
 `bundle add webrick`<br>
-`bundle exec jekyll serve --livereload` <br><br>
+`bundle exec jekyll serve -l` <br><br>
 And you should now have a localy running jekyll website!
 
 # Step 6 Theme
